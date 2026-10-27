@@ -12,6 +12,7 @@ I enjoy turning ideas into real working products
 
 **Backend:**
 
+* Laravel
 * PHP 
 * REST APIs
 
@@ -20,7 +21,8 @@ I enjoy turning ideas into real working products
 * JavaScript (ES6+)
 * HTML5
 * CSS3
-
+* REACT
+  
 **Databases:**
 
 * MySQL
@@ -30,6 +32,7 @@ I enjoy turning ideas into real working products
 * Git
 * GitHub
 * VS Code
+* Docker
 
 **Currently Learning:**
 
