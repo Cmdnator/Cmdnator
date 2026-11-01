@@ -79,6 +79,6 @@ Admin Panel
 
 ## 💡 Career Goal
 
-Actively looking for a **Junior / Trainee Full-Stack Developer** position where I can actively learn new things and contribute to real-world projects, while continuously improve my engineering skills.
+Seeking a Junior / Trainee Full-Stack Developer position where I can contribute to real-world projects, expand my technical knowledge, and continuously develop my software engineering skills. I am eager to learn, take on new challenges, and grow as a developer within a collaborative team at an agency or product-based company.
 
 Thanks for visiting my profile!
